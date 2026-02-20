@@ -133,7 +133,7 @@ LSTM demonstrates better capability for modeling time-series behavior due to its
 
 **1️⃣ Clone the repository:**
 
-git clone <your_repository_link>
+git clone <[your_repository_link](https://github.com/bibekkrmajhi/TCS-Stock-Data-Prediction)>
 
 **2️⃣ Install required libraries:**
 
@@ -164,5 +164,6 @@ Hyperparameter tuning
 ARIMA / SARIMA comparison
 
 Real-time stock prediction using APIs
+
 
 Deployment using Streamlit
