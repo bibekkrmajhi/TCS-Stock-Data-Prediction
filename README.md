@@ -133,7 +133,7 @@ LSTM demonstrates better capability for modeling time-series behavior due to its
 
 **1️⃣ Clone the repository:**
 
-git clone <[your_repository_link](https://github.com/bibekkrmajhi/TCS-Stock-Data-Prediction)>
+git clone <[repository_link](https://github.com/bibekkrmajhi/TCS-Stock-Data-Prediction)>
 
 **2️⃣ Install required libraries:**
 
@@ -167,3 +167,4 @@ Real-time stock prediction using APIs
 
 
 Deployment using Streamlit
+
